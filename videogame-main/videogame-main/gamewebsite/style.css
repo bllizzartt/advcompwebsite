@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(100, 34, 207);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  div {
+    text-align: center;
+  }
+
+ footer {
+   text-align: left;
+   bottom: 0;
+ }
+
+ .button {
+   color: brown;
+ }
+
+ div {
+   font-size: 20px;
+ }
