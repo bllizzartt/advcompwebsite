@@ -29,3 +29,23 @@ body {
  div {
    font-size: 20px;
  }
+ 
+ .home {
+   font-size: 20px;
+ }
+
+ .enter {
+   font-size: 50px;
+ }
+
+ .hallway {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+ }
+
+ .dragon {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+ }
