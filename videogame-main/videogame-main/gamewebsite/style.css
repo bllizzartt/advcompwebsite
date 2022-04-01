@@ -1,51 +1,73 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(75, 40, 0);
   }
   
   h1 {
-    color: rgb(100, 34, 207);
+    color: rgb(226, 212, 19);
     text-align: center;
+    
   }
   
   p {
     font-family: verdana;
     font-size: 20px;
     text-align: center;
+    color: rgb(226, 212, 19);
   }
   
   div {
     text-align: center;
+    color: rgb(226, 212, 19);
   }
 
  footer {
    text-align: left;
    bottom: 0;
+   color: rgb(226, 212, 19);
  }
 
  .button {
    color: brown;
+   color: rgb(226, 212, 19);
  }
 
  div {
    font-size: 20px;
+   color: rgb(226, 212, 19);
  }
  
  .home {
-   font-size: 20px;
+   font-size: 15px;
+   color: rgb(226, 212, 19);
  }
 
  .enter {
    font-size: 50px;
+   color: rgb(226, 212, 19);
  }
 
  .hallway {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
+  color: rgb(226, 212, 19);
  }
 
  .dragon {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
+  color: rgb(226, 212, 19);
+ }
+
+ .continue {
+  color: rgb(226, 212, 19);
+ }
+
+ .grapplegun {
+  color: rgb(226, 212, 19);
+ }
+
+ .large {
+  color: rgb(226, 212, 19);
  }
