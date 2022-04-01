@@ -1,2 +1,0 @@
-# videogame
-parsons assignment
